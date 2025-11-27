@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/888krishnam">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,express,react,bootstrap,tailwind,materialui,git,github,postgres,firebase,gcp,postman,docker,linux&perline=9" alt="Skills Icons" />
+  <a href="https://github.com/pratik-dubey">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,react,bootstrap,tailwind,materialui,git,github,postgres,firebase,gcp,postman,docker=9" alt="Skills Icons" />
   </a>
 </p>
 
@@ -25,20 +25,20 @@
 <br>
 
 <p align="center">
-  <a href="mailto:888krishnam@gmail.com">
+  <a href="mailto:pratikdubey091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
   </a> 
-  <a href="https://www.linkedin.com/in/krishnam-agarwal/">
+  <a href="https://www.linkedin.com/in/pratikdubey091/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
-  <a href="https://codeforces.com/profile/888krishnam">
-    <img src="https://img.shields.io/badge/Codeforces-%23100000.svg?style=for-the-badge&logo=codeforces&logoColor=white" height="28">
+  <a href="https://codeforces.com/profile/pratikdubey091">
+    <img src="https://img.shields.io/badge/Codeforces-16A34A?style=for-the-badge&logo=codeforces&logoColor=white" height="28">
   </a>
-  <a href="https://www.leetcode.com/888krishnam/">
+  <a href="https://leetcode.com/u/pratikdubey29/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="28">
   </a>
-  <a href="https://instagram.com/krishnam.agarwal/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
+  <a href="https://x.com/D91270252Dubey">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" height="28">
   </a>
 </p>
 
@@ -49,8 +49,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=888krishnam&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="38%" style="display:inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=888krishnam&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" width="50%" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-dubey&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="38%" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik-dubey&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" width="50%" style="display:inline-block;" />
 </p>
 
 <p align="center">
