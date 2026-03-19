@@ -1,13 +1,18 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&width=435&lines=Welcome+to+my+GitHub!;Fullstack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&width=600&lines=Welcome+to+my+GitHub!;Fullstack+Developer;Competitive+Programmer" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Centered Gif" width="400" 
-    height="250 />
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    alt="Coding Gif" 
+    width="500"
+  />
 </p>
 
-<p>
 <ul>
   <li>Currently building an AI-based UI/UX automation platform focused on creating scalable interfaces while maintaining context.</li>
   
@@ -15,19 +20,19 @@
   
   <li>Open to internships and collaborations on interesting projects.</li>
   
-  <li>Feel free to reach out at: pratikdubey091@gmail.com</li>
+  <li>Feel free to reach out at: <b>pratikdubey091@gmail.com</b></li>
 </ul>
-</p>
+
 <br>
 
 # 🛠️ Languages & Tools:
 
-<br>
-
 <p align="center">
-  <a href="https://github.com/pratik-dubey">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,react,bootstrap,tailwind,materialui,git,github,postgres,firebase,gcp,postman,docker=9" alt="Skills Icons" width="200" height="200" />
-  </a>
+  <img 
+    src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,react,bootstrap,tailwind,materialui,git,github,postgres,firebase,gcp,postman,docker" 
+    alt="Skills Icons" 
+    width="600"
+  />
 </p>
 
 <br>
