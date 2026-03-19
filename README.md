@@ -20,7 +20,7 @@
   
   <li>Open to internships and collaborations on interesting projects.</li>
   
-  <li>Feel free to reach out at: <b>pratikdubey091@gmail.com</b></li>
+  <li>Feel free to reach out at: <a href="mailto:pratikdubey091@gmail.com">pratikdubey091@gmail.com</li>
 </ul>
 
 <br>
