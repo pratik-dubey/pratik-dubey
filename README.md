@@ -7,6 +7,17 @@
     height="250 />
 </p>
 
+<p>
+<ul>
+  <li>Currently building an AI-based UI/UX automation platform focused on creating scalable interfaces while maintaining context.</li>
+  
+  <li>Learning and experimenting with DevOps workflows and Generative AI tools.</li>
+  
+  <li>Open to internships and collaborations on interesting projects.</li>
+  
+  <li>Feel free to reach out at: pratikdubey091@gmail.com</li>
+</ul>
+</p>
 <br>
 
 # 🛠️ Languages & Tools:
@@ -15,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/pratik-dubey">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,react,bootstrap,tailwind,materialui,git,github,postgres,firebase,gcp,postman,docker=9" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,react,bootstrap,tailwind,materialui,git,github,postgres,firebase,gcp,postman,docker=9" alt="Skills Icons" width="200" height="200" />
   </a>
 </p>
 
